@@ -7,7 +7,15 @@
 
 ## About Me
 
-> I am a second-year Data Science and Business Analytics student at the **University of Economics, Da Nang**. I am deeply passionate about Business Intelligence, Marketing Analytics, CRM/ERP systems, and Risk/Fraud Detection. Skilled in Python, SQL, and statistical testing (Z-tests, p-values), I focus on building predictive machine learning models (XGBoost, Decision Trees, Regression) to solve real-world business problems. Seeking a Data Analyst or Data Science internship to contribute to data-driven teams.
+> 🎓 I am a Data Science and Business Analytics student at the **University of Economics, Da Nang**. I don't just crunch numbers; I transform raw data into strategic business stories that drive real-world decisions.
+
+💡 **What I actually do:**
+- **Data Analytics & BI:** Experienced in building interactive **Customer Profile Dashboards** (using Tableau) and conducting **RFM analysis** to segment and optimize customer insights.
+- **Machine Learning & Big Data:** Passionate about predictive modeling. Developed a **Bank Fraud Detection system using XGBoost** and regularly apply statistical hypothesis testing (**Z-test, p-values**) to validate data integrity.
+- **Business-Driven Mindset:** Fascinated by how data integrates with corporate frameworks like CRM/ERP systems and marketing analytics to optimize operational growth.
+
+🌱 **My Current Mission:**
+I am continuously expanding my toolkit in advanced Python algorithms and SQL architecture, while actively seeking a **Data Analyst / Data Science Internship**. I'm ready to bring my analytical skills and data-driven mindset to a forward-thinking team!
 
 ---
 
