@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-> Data Science and Business Analytics student at the **University of Economics, Da Nang** with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, and Tableau. Interested in applying data-driven approaches to solve real-world business problems in collaborative, impact-focused environments.
+> Data Science and Business Analytics student at the **University of Economics, Da Nang** with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, Power BI and Tableau. Interested in applying data-driven approaches to solve real-world business problems in collaborative, impact-focused environments.
 
 ---
 
