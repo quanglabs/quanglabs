@@ -1,23 +1,15 @@
-<!-- HEADER SECTION (Phong cách tối giản, căn giữa theo image_d8edd8.png) -->
-<p align="center">
-  <h1 align="center">Hi 👋, I'm Quang</h1>
-</p>
+<!-- HEADER SECTION (Cân đối, tinh tế theo phong cách tối giản) -->
+<div align="center">
+  <h1>Hi 👋, I'm Quang</h1>
+  <p><strong>Data Science & Business Analytics Student</strong></p>
+  <!-- CHỮ CHẠY ĐÃ FIX LỖI HIỂN THỊ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Science+Student%3BBusiness+Analytics+Enthusiast%3BTurning+Raw+Data+into+Insights" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <strong>Data Science & Business Analytics Student</strong>
-</p>
-
-<!-- DÒNG CHỮ CHẠY MÀU XANH LÀM ĐIỂM NHẤN -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Insights+🚀;Building+Predictive+ML+Models+🤖;Crafting+Data-Driven+Dashboards+📊" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ĐẾM LƯỢT XEM ĐẶT GỌN GÀNG ĐÚNG VỊ TRÍ NHƯ ẢNH MẪU -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quanglabs&icon=0&color=38BDF8&style=flat-square" alt="Profile Views" />
-</p>
+<!-- LƯỢT XEM ĐỒNG BỘ MÀU XANH CHUYÊN NGHIỆP -->
+<div align="center" style="margin-top: 15px;">
+  <img src="https://komarev.com/ghpvc/?username=quanglabs&label=Profile%20Views&color=38bdf8&style=flat-square" alt="quanglabs" />
+</div>
 
 ---
 
@@ -55,33 +47,15 @@
 
 ---
 
-## 📊 GitHub Stats (Thiết kế dạng Dashboard hàng ngang gọn gàng)
+## 📊 GitHub Stats (Thiết kế dạng Dashboard song song)
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=quanglabs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=quanglabs&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=quanglabs&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quanglabs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quanglabs&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanglabs&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/văn-quang-nguyễn-4a4a65388/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nvquang123321123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<!-- ĐÃ FIX LỖI GẠCH CHÂN XANH DƯỚI ICON (GOM CHUNG 1 DÒNG) -->
+<p align="left"><a href="https://www.linkedin.com/in/văn-quang-nguyễn-4a4a65388/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:nvquang123321123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a></p>
