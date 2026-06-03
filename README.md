@@ -1,4 +1,4 @@
-<!-- Banner lượn sóng giống hệt mẫu của bạn Thắng -->
+<!-- Banner lượn sóng giống mẫu capsule-render -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5c677d&height=220&section=header&text=Hi%20there!%20I'm%20Quang%20👋&fontSize=38&fontColor=ffffff&subText=Data%20Scientist%20%7C%20Business%20Analyst&subTextY=140&subTextColor=93c5fd" width="100%"/>
 </p>
@@ -7,15 +7,7 @@
 
 ## About Me
 
-> 🎓 I am a Data Science and Business Analytics student at the **University of Economics, Da Nang**. I don't just crunch numbers; I transform raw data into strategic business stories that drive real-world decisions.
-
-💡 **What I actually do:**
-- **Data Analytics & BI:** Experienced in building interactive **Customer Profile Dashboards** (using Tableau) and conducting **RFM analysis** to segment and optimize customer insights.
-- **Machine Learning & Big Data:** Passionate about predictive modeling. Developed a **Bank Fraud Detection system using XGBoost** and regularly apply statistical hypothesis testing (**Z-test, p-values**) to validate data integrity.
-- **Business-Driven Mindset:** Fascinated by how data integrates with corporate frameworks like CRM/ERP systems and marketing analytics to optimize operational growth.
-
-🌱 **My Current Mission:**
-I am continuously expanding my toolkit in advanced Python algorithms and SQL architecture, while actively seeking a **Data Analyst / Data Science Internship**. I'm ready to bring my analytical skills and data-driven mindset to a forward-thinking team!
+> Data Science and Business Analytics student at the **University of Economics, Da Nang** with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, and Tableau. Interested in applying data-driven approaches to solve real-world business problems in collaborative, impact-focused environments.
 
 ---
 
