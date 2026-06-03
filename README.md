@@ -6,7 +6,7 @@
 <!-- DÒNG CHỮ TỰ ĐỘNG CHẠY (TYPEWRITER EFFECT) BẮT MẮT -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Science+Student+📊;Business+Analytics+Enthusiast+💡;Turning+Raw+Data+into+Insights+🚀;Building+Predictive+ML+Models+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2500&pause=1200&color=00FFCC&center=true&vCenter=true&width=600&lines=Data+Science+Student+📊;Business+Analytics+Enthusiast+💡;Turning+Raw+Data+into+Insights+🚀;Building+Predictive+ML+Models+🤖" alt="Typing SVG" />
   </a>
 </p>
 
