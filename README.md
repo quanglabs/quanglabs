@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Quang (quanglabs)
+# 🚀 Hi, I'm Quang 
 ### Data Science & Business Analytics | University of Economics, Da Nang
 
 Welcome to my GitHub space! I am a data enthusiast passionate about translating complex datasets into strategic, actionable business decisions. My experience bridges the gap between technical data mining and practical business applications.
