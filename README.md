@@ -1,61 +1,75 @@
-# 🚀 Hi, I'm Quang 
-### Data Science & Business Analytics | University of Economics, Da Nang
+<!-- Banner lượn sóng giống hệt mẫu của bạn Thắng -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5c677d&height=220&section=header&text=Hi%20there!%20I'm%20Quang%20👋&fontSize=38&fontColor=ffffff&subText=Data%20Scientist%20%7C%20Business%20Analyst&subTextY=140&subTextColor=93c5fd" width="100%"/>
+</p>
 
-Welcome to my GitHub space! I am a data enthusiast passionate about translating complex datasets into strategic, actionable business decisions. My experience bridges the gap between technical data mining and practical business applications.
+<h3 align="center">📊 Analyzing data & driving business insights</h3>
 
-## 💫 About Me
-- 🎓 **Education:** 2nd-year student majoring in Data Science and Business Analytics at the University of Economics, Da Nang.
-- 💡 **Domains of Interest:** Business Intelligence, Marketing Analytics, CRM/ERP Systems, and Risk/Fraud Detection.
-- 🛠️ **What I do:** 
-  - Building predictive machine learning models (XGBoost, Decision Trees, Regression) for real-world business scenarios.
-  - Conducting deep exploratory data analysis and statistical testing (Z-tests, p-values) to validate data-driven hypotheses.
-  - Designing interactive, visually appealing dashboards to track KPIs and customer profiles.
-- 🌱 **Currently Learning:** Expanding my toolkit with advanced Python algorithms, SQL architectures, and scalable data solutions.
-- 🎯 **Goals:** Actively seeking **Data Analyst / Data Science Internship** opportunities to contribute to forward-thinking teams and gain hands-on industry experience.
+## About Me
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/văn-quang-nguyễn-4a4a65388/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@VanQuangNguyen) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvquang123321123@gmail.com) 
-
-## 💻 Tech Stack & Tools:
-**Data Analysis & Machine Learning:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
-
-**Database & Cloud:**
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Visualization & Design:**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-
-## 📊 GitHub Stats & Activity:
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=quanglabs&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="Quang's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=quanglabs&theme=default&hide_border=true" alt="Quang's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=quanglabs&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quanglabs&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=quanglabs&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
+> I am a second-year Data Science and Business Analytics student at the **University of Economics, Da Nang**. I am deeply passionate about Business Intelligence, Marketing Analytics, CRM/ERP systems, and Risk/Fraud Detection. Skilled in Python, SQL, and statistical testing (Z-tests, p-values), I focus on building predictive machine learning models (XGBoost, Decision Trees, Regression) to solve real-world business problems. Seeking a Data Analyst or Data Science internship to contribute to data-driven teams.
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=quanglabs&icon=0&color=0" alt="Profile Views" />
+
+## Tech Stack & Skills
+
+### 🐍 Programming & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🗄️ Database & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### 🎨 Visualization & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=quanglabs&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=quanglabs&theme=default&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=quanglabs&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quanglabs&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/văn-quang-nguyễn-4a4a65388/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:nvquang123321123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quanglabs&icon=0&color=0" alt="Profile Views" />
+</p>
