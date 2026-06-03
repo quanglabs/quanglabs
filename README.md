@@ -1,17 +1,24 @@
-<!-- Banner lượn sóng giống mẫu capsule-render -->
+<!-- Banner lượn sóng phối màu Gradient nổi bật -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5c677d&height=220&section=header&text=Hi%20there!%20I'm%20Quang%20👋&fontSize=38&fontColor=ffffff&subText=Data%20Scientist%20%7C%20Business%20Analyst&subTextY=140&subTextColor=93c5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:1d3557&height=220&section=header&text=Hi%20there!%20I'm%20Quang%20👋&fontSize=38&fontColor=ffffff" width="100%"/>
 </p>
 
-<h3 align="center">📊 Analyzing data & driving business insights</h3>
+<!-- DÒNG CHỮ TỰ ĐỘNG CHẠY (TYPEWRITER EFFECT) BẮT MẮT -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Science+Student+📊;Business+Analytics+Enthusiast+💡;Turning+Raw+Data+into+Insights+🚀;Building+Predictive+ML+Models+🤖" alt="Typing SVG" />
+  </a>
+</p>
 
-## About Me
+---
+
+## 💫 About Me
 
 > Data Science and Business Analytics student at the **University of Economics, Da Nang** with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, and Tableau. Interested in applying data-driven approaches to solve real-world business problems in collaborative, impact-focused environments.
 
 ---
 
-## Tech Stack & Skills
+## 💻 Tech Stack & Skills
 
 ### 🐍 Programming & Data Science
 <p align="left">
