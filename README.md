@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-> Data Science and Business Analytics student at the **University of Economics, Da Nang** with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, Power BI and Tableau. Interested in applying data-driven approaches to solve real-world business problems in collaborative, impact-focused environments.
+> Data Science and Business Analytics student at the **University of Economics, Da Nang** with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, Power BI, and Tableau. Interested in applying data-driven approaches to solve real-world business problems in collaborative, impact-focused environments.
 
 ---
 
@@ -39,6 +39,7 @@
 
 ### 🎨 Visualization & Design
 <p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-013243?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
@@ -47,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quanglabs&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -57,5 +58,4 @@
 ---
 
 ## 📬 Connect With Me
-<!-- ĐÃ FIX LỖI GẠCH CHÂN XANH DƯỚI ICON (GOM CHUNG 1 DÒNG) -->
 <p align="left"><a href="https://www.linkedin.com/in/văn-quang-nguyễn-4a4a65388/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:nvquang123321123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a></p>
