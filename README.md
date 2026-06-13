@@ -58,4 +58,4 @@
 ---
 
 ## 📬 Connect With Me
-<p align="left"><a href="https://www.linkedin.com/in/văn-quang-nguyễn-4a4a65388/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:nvquang123321123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/quang-nguyen-4a4a65388" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:nvquang123321123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.facebook.com/share/1BW8jZFsyy/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a></p>
